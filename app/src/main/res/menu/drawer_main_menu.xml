@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="@string/ADS">
+        <menu>
+            <item
+                android:title="@string/my_ads"
+                android:id="@+id/my_ads"/>
+            <item
+                android:title="@string/electronics"
+                android:id="@+id/electronics"/>
+            <item
+                android:title="@string/transport"
+                android:id="@+id/transport"/>
+            <item
+                android:title="@string/services"
+                android:id="@+id/services"/>
+            <item
+                android:title="@string/animals"
+                android:id="@+id/animals"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/account">
+        <menu>
+            <item
+                android:title="@string/sign_up"
+                android:id="@+id/sign_up"/>
+            <item
+                android:title="@string/sign_in"
+                android:id="@+id/sign_in"/>
+            <item
+                android:title="@string/sign_out"
+                android:id="@+id/sign_out"/>
+        </menu>
+    </item>
+
+    <item android:id="@+id/fragment"
+        android:title="New AD"/>
+
+</menu>

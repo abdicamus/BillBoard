@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">BillBoard</string>
+
+    <string name="account">Аккаунт</string>
+
+
+    <string name="ADS">Объявления</string>
+    <string name="my_ads">Мои объявления</string>
+    <string name="electronics">Электроника</string>
+    <string name="transport">Транспорт</string>
+    <string name="services">Услуги</string>
+    <string name="animals">Животные</string>
+
+    <string name="sign_up">Регистрация</string>
+    <string name="sign_in">Вход</string>
+    <string name="sign_out">Выйти</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="not_auth">Войдите или зарегистрируйтесь!</string>
+
+    <!-- Dialog strings -->
+    <string name="sign_in_act">Войти</string>
+    <string name="email">E-mail</string>
+    <string name="password">Password</string>
+    <string name="sign_up_act">Зарегистрироваться</string>
+    <string name="forget_password">Забыли пароль?</string>
+    <string name="sign_up_error">Не удалось зарегистрироваться</string>
+    <string name="sign_in_verification">Пожалуйства подтвердите E-mail</string>
+    <string name="verification_error">Не удалось отправить письмо</string>
+    <string name="sign_in_error">Не удалось войти</string>
+    <string name="welcome">Добро пожаловать!</string>
+    <string name="dialog_email_reset">Для восстановления пароля введите ваш E-mail</string>
+    <string name="send_verification">Отправить письмо</string>
+
+    <!-- Account string -->
+    <string name="email_already_exist">Данный E-mail уже зарегистрирован</string>
+    <string name="email_format_error">E-mail введен неправильно</string>
+    <string name="user_not_found">Пользователь не найден</string>
+    <string name="wrong_password">Неправильный пароль</string>
+    <string name="link_email_done">Данный E-mail был привязан к вашему Google аккаунту</string>
+
+    <string name="nothing_found">Ничего не найдено</string>
+
+    <!-- New ad Act -->
+    <string name="select_country">Выберите страну</string>
+    <string name="select_city">Выберите город</string>
+
+</resources>
